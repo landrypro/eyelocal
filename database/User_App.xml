@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="User_App.xsd" generated="2022-06-24T12:37:19">
+<User_App>
+<ID>1</ID>
+<Name>FOTI Sarl</Name>
+<login>foti</login>
+<password>foti</password>
+<level>5</level>
+</User_App>
+<User_App>
+<ID>2</ID>
+<Name>Ngalle Junior</Name>
+<login>ngalle</login>
+<password>junior</password>
+<level>5</level>
+</User_App>
+</dataroot>
